@@ -1,5 +1,5 @@
 # Hello_World
-my first repsitory on GitHub
+my first repository on GitHub
 
 
 Hi DmJacky
